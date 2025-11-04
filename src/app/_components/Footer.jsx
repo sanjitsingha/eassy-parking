@@ -18,11 +18,9 @@ const Footer = () => {
           </button>
         </div>
         <p className="text-sm mt-4 text-black/60 w-full md:w-[60%]">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel tempore
-          doloremque accusantium consequatur praesentium enim, ratione aliquam
-          deserunt iure, harum molestiae ipsam placeat odio debitis consectetur,
-          ut nobis modi officiis quae architecto. Nesciunt, impedit hic enim ut
-          quis officia odio aspernatur? Voluptates deleniti quod eum.
+          Eassy Parking makes finding and managing parking easy, fast, and
+          reliable. Discover verified parking spaces near you and enjoy a
+          smooth, stress-free parking experience every time.
         </p>
         <div className="w-full mt-6">
           <button className="bg-blue-light cursor-pointer border border-blue-dark flex items-center px-4 gap-3 py-1 rounded-full">

@@ -16,15 +16,19 @@ const AppPreview = () => {
           </p>
           <div className="flex  mt-8">
             <div className="border-l-2 border-yellow pl-4 ">
-              <p className="text-lg text-center text-black">
+              <p className="md:text-lg text-[16px] text-center text-black">
                 Realtime Availablity
               </p>
             </div>
             <div className="px-4    border-l-2 border-yellow">
-              <p className="text-lg text-center text-black">Time Saving</p>
+              <p className="md:text-lg text-[16px] text-center text-black">
+                Time Saving
+              </p>
             </div>
             <div className="px-4 ">
-              <p className="text-lg text-center text-black">Smart Direction</p>
+              <p className="md:text-lg text-[16px] text-center text-black">
+                Smart Direction
+              </p>
             </div>
           </div>
         </div>
