@@ -20,7 +20,7 @@ const hero = () => {
             No more guessing where to park — Eassy Parking helps you find
             available spots instantly and get there without the hassle.
           </p>
-          <div className="w-full flex md:justify-start justify-center">
+          <div className="w-full pb-10 flex md:justify-start justify-center">
             <button className="bg-yellow px-4  text-black py-2 mt-6 md:mt-10 rounded-md border border-white/20 shadow cursor-pointer hover:bg-blue-light duration-200 transition-all hover:text-white ">
               Find a Spot Near Me
             </button>
@@ -29,9 +29,10 @@ const hero = () => {
         <div className="w-full ">
           <Image
             alt="phone"
-            className="mx-auto translate-y-4"
-            width={200}
-            height={200}
+            objectFit="contain"
+            className="mx-auto object-contain md:translate-y-22"
+            width={240}
+            height={240}
             src={"/hero-image2.png"}
           />
         </div>
